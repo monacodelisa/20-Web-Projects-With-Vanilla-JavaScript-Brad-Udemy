@@ -22,7 +22,7 @@ Bigger projects will have theit own repo.</p>
 <h3>14: Memory Cards | CSS Effects, Local Storage</h3> 
 <h3>15: Lyrics Search App | Fetch, Pagination, Lyrics.ovh API</h3> 
 <h3>16: Relaxer App | CSS Animations, setTimeout</h3> 
-<h3>17: Breakout Game | HTML5 Canvas API</h3> 
+<h2>17: Breakout Game | HTML5 Canvas API</h2> 
 <h3>18: New Year Countdown | DOM, Date & Time</h3> 
 <h3>19: Sortable List | Drag & Drop API</h3> 
 <h3>20: Speak Number Guessing Game | Speech Recognition</h3> 
