@@ -18,7 +18,7 @@ Bigger projects will have theit own repo.</p>
 <h3>10: Music Player | HTML5 Audio API</h3> 
 <h2>11: Infinite Scroll Posts | Fetch, Async/Await, CSS Loader</h2> 
 <h3>12: Typing Game | DOM, Intervals, Events</h3> 
-<h2><a href="https://esteecodes.github.io/Speech-Text-Reader/" target="_blank">13: Speech Text Reader | Speech Synthesis - on a seperate repo</a></h2> 
+<h2><a href="https://monacodelisa.github.io/Speech-Text-Reader/" target="_blank">13: Speech Text Reader | Speech Synthesis - on a seperate repo</a></h2> 
 <h3>14: Memory Cards | CSS Effects, Local Storage</h3> 
 <h3>15: Lyrics Search App | Fetch, Pagination, Lyrics.ovh API</h3> 
 <h3>16: Relaxer App | CSS Animations, setTimeout</h3> 
